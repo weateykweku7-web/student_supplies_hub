@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^4.14.0   # For real-time database sync
+  firebase_core: ^2.24.2     # For Firebase initialization
+  url_launcher: ^6.2.2       # For triggering WhatsApp webhooks
